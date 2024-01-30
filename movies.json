@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Inception",
+      "poster": "https://example.com/inception.jpg"
+    },
+    {
+      "name": "The Shawshank Redemption",
+      "poster": "https://example.com/shawshank.jpg"
+    },
+    {
+        "name": "Jaws",
+        "poster": "https://example.com/jaws.jpg"
+      }
+  ]
+  
